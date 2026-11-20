@@ -1,0 +1,50 @@
+{
+  "best_epoch": 22,
+  "best_val_accuracy": 0.45,
+  "test_accuracy": 0.38,
+  "per_class": {
+    "Normal": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 10.0
+    },
+    "Myocardial infarction": {
+      "precision": 0.4166666666666667,
+      "recall": 0.5,
+      "f1-score": 0.45454545454545453,
+      "support": 10.0
+    },
+    "Dilated cardiomyopathy": {
+      "precision": 0.29411764705882354,
+      "recall": 1.0,
+      "f1-score": 0.45454545454545453,
+      "support": 10.0
+    },
+    "Hypertrophic cardiomyopathy": {
+      "precision": 1.0,
+      "recall": 0.1,
+      "f1-score": 0.18181818181818182,
+      "support": 10.0
+    },
+    "Abnormal right ventricle": {
+      "precision": 1.0,
+      "recall": 0.3,
+      "f1-score": 0.46153846153846156,
+      "support": 10.0
+    },
+    "accuracy": 0.38,
+    "macro avg": {
+      "precision": 0.5421568627450981,
+      "recall": 0.38,
+      "f1-score": 0.3104895104895105,
+      "support": 50.0
+    },
+    "weighted avg": {
+      "precision": 0.5421568627450981,
+      "recall": 0.38,
+      "f1-score": 0.31048951048951046,
+      "support": 50.0
+    }
+  }
+}

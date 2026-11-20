@@ -1,0 +1,22 @@
+{
+  "n_patients": 150,
+  "features": [
+    "EDV_LV",
+    "ESV_LV",
+    "EF_LV",
+    "EDV_RV",
+    "ESV_RV",
+    "EF_RV",
+    "MYO_MASS_ED",
+    "MYO_MASS_ES",
+    "EDV_LV_index",
+    "EDV_RV_index",
+    "MYO_MASS_index",
+    "RV_LV_ratio"
+  ],
+  "cv_accuracy": {
+    "Logistic Regression": 0.9333333333333333,
+    "Random Forest": 0.8866666666666667
+  },
+  "best": "Logistic Regression"
+}
