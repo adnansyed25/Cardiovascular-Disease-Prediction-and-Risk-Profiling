@@ -11,8 +11,7 @@ Predicting cardiovascular disease (CVD) from two complementary sources:
 
 > **Authors: Group 16.** Sidhvina Reddy, Adnan Syed, Yashvi Patel,
 > Hriday Chauhan and Charan Balaji.
-> The project report is in [`docs/original/`](docs/original/). This is version 2 of the
-> project; see [What's new in v2](#whats-new-in-v2).
+> This is version 2 of the project; see [What's new in v2](#whats-new-in-v2).
 
 ---
 
