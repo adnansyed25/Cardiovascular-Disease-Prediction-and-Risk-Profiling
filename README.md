@@ -9,7 +9,7 @@ Predicting cardiovascular disease (CVD) from two complementary sources:
 | **Clinical records** | 70,000 patients, 11 routine measurements | CVD yes / no | Tuned classical ML (6 models incl. XGBoost), SHAP / permutation importance |
 | **Cardiac MRI** | ACDC challenge, 150 patients, ED + ES cine-MRI | 5 diagnoses | 3D-CNN on volumes + interpretable baseline on heart metrics from segmentations |
 
-> **Authors: Group 5.** Sidhvina Reddy, Adnan Syed, Yashvi Patel,
+> **Authors: Group 16.** Sidhvina Reddy, Adnan Syed, Yashvi Patel,
 > Hriday Chauhan and Charan Balaji.
 > The project report is in [`docs/original/`](docs/original/). This is version 2 of the
 > project; see [What's new in v2](#whats-new-in-v2).
